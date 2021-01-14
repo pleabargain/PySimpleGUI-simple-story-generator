@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import PySimpleGUI as sg 
 import random
 import time
@@ -58,7 +60,7 @@ while True:
         print(output)
 
         #write to file
-        with open(f"{your_name}.{date}.jupyter.csv",'a' ) as file :
+        with open(f"{your_name}.{date}.madlibsout.csv",'a' ) as file :
             try:
                 file.write('"'+your_name+'","'+size_adjective+'","'+adjective+'","'+noun+'","'+place_noun+'",'+output+'"\n')
             except:

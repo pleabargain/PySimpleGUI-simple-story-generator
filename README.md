@@ -13,9 +13,9 @@ The other uses selection list.
 * TODO get the list from a preloaded .CSV
 
 # done
-* Allow users to choose which story to generate.
+* Allow users to choose which sentence to generate.
 * read in a list of values to populate a dropdown
-* TODO populate the fields with adjectives as drop downs
+* populate the fields with drop downs
 
 
 # license
