@@ -1,0 +1,10 @@
+green
+yellow
+slow
+fast
+fuzzy
+hard
+soft
+delicious
+transparent
+blue

@@ -1,0 +1,13 @@
+tiny
+huge
+gargantuan
+gigantic
+small
+big
+enormous
+extra large
+extra small
+microscopic
+medium
+formidable
+cosmic

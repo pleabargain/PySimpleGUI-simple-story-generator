@@ -1,13 +1,19 @@
 # simple story generator using PysimpleGuI
 
-Similar to Mad Libs™
+Big thanks to Horst Jens!
+I wouldn't have been able to do this without his help!
+https://github.com/horstjens
 
-There are two files. One for user typed input and saved to csv once the user clicks OK.
-The other uses selection list.
+These scripts generate SIMPLE sentences much in the vein of Mad Libs™
+
+There are two scripts. 
+* One for user typed input and saved to csv once the user clicks OK.
+* User can and add OR select from a list that is read in from an extern
 
 
 
 # TODO
+* review and refactor variable and file naming conventions!
 * TODO set default values for testing purposes
 * TODO need to catch if input is empty!
 * TODO get the list from a preloaded .CSV
